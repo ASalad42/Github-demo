@@ -4,7 +4,8 @@ This markdown documentation will go through how to setup github
 
 # Downloading Git
 
-we begin with downloading git and git.bash 
+We begin with downloading git and git.bash 
+https://git-scm.com/downloads
 
 
 HTTPS
@@ -49,4 +50,4 @@ ssh-add ~/filename/122
 
 ````
 
-![](
+
