@@ -26,6 +26,8 @@ Starting a repo and pushing it with https
 SSH
 
 We can generate an ssh key for authentication 
+for more pease check out:
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 1. open terminal
 2. create .ssh directory (folder) mkdir .ssh
