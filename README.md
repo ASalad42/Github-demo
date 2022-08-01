@@ -1,3 +1,5 @@
+https://github.com/ASalad42/documentation/blob/main/README.md
+
 # GitHub Setup with HTTPS and SSH
 
 This markdown documentation will go through how to setup github
