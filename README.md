@@ -33,6 +33,7 @@ We can generate an ssh key for authentication
 6. you will then be prompted to enter a file name and a passphrase
 7. upon completion, you will get a public and private key
 8. copy the .pub and paste into github (settings>ssh and gpg keys section)
+![image](https://user-images.githubusercontent.com/104793540/182090016-aedf6e4b-d0f5-4e66-bc99-35a26baf4ed0.png)
 
 ````bash
 mkdir .filename 
